@@ -1,0 +1,20 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Episode 2 namaste react",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ritik Varshney",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
