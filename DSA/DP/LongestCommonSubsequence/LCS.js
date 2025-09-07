@@ -47,7 +47,7 @@ function LCS2(string1, string2) {
 
 }
 
-const string1 = 'abcde', string2 = 'ace';
+const string1 = 'intention', string2 = 'execution';
 let n = string1.length;
 let m = string2.length;
 let dp = Array.from({length: n+1}, () => Array(m+1).fill(-1));
